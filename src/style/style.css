@@ -4,7 +4,6 @@
 }
 
 .site-container {
-  /* width: 1115px; */
   margin: 0 auto;
 }
 @media screen and (max-width: 1250px) {
@@ -130,15 +129,8 @@
 .top-banner__image img{
   width: 100%;
 }
-.top-banner__text-up {
-
-}
 .top-banner__span{
   color: #fff;
-}
-
-.top-banner__text-down{
-
 }
 .top-banner__span1{
   color: #fff;
